@@ -5,5 +5,5 @@ clicker.onclick = function(e) {
   while (counter < 100) {
     alert(counter)
     i++
-  }
+  } i++
 }
